@@ -927,22 +927,22 @@ body {
     }
 
         .card .front{
-            width: 335%;
+           width: 100%;
             height: 100%;
            
        }
        .card2 .front2{
-        width: 335%;
-        height: 100%;
+       width: 100%;
+            height: 100%;
         }
         .card  .back{
-            width: 335%;
+             width: 100%;
             height: 100%;
 
 
         }
         .card2 .back2{
-            width: 335%;
+            width: 100%;
             height: 100%;
         }
         
