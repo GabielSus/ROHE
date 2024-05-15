@@ -932,22 +932,22 @@ body {
         margin-left: 0;
     }
         .card .front{
-            width: 335%;
+            width: 330%;
             height: 100%;
            
        }
        .card2 .front2{
-        width: 335%;
+        width: 330%;
         height: 100%;
         }
         .card  .back{
-            width: 335%;
+            width: 330%;
             height: 100%;
 
 
         }
         .card2 .back2{
-            width: 335%;
+            width: 330%;
             height: 100%;
         }
         
@@ -963,7 +963,9 @@ body {
         .price__price5{
             font-size: 1.15rem;
         } 
-
+.knowledge__picture2{
+    widht: 200px:
+}
         /* 
         margin:0;
         width: 100%;
