@@ -824,35 +824,27 @@ body {
     .footer__input{
         flex: 1;
     }
-    .card{
-        width: 70%;
-    }
-    .card:hover{
-        width: 70%;
-    }
-    .front{
-        width: 70%;
+   .front{
+        width: 50%;
     }
     .front2{
-        width: 30%;
+        width: 50%;
     }
     .back{
-        width: 70%;
+        width: 50%;
     }
     .back2{
-        width: 30%;
+        width: 50%;
     }
-    .card2{
-        width: 30%;
-    }
-    .card2:hover{
-        width: 30%;
-    }
+
     .price__price2{
         font-size: 1.5rem;
     }
     .price__price3{
         font-size: 1.2rem;
+    }
+    .price__table{
+        width: 50%;
     }
 }
 
@@ -930,38 +922,24 @@ body {
         margin-right: auto;
         margin-left: 0;
     }
-        .card{
-            width: 30%;
-        }
-        .card{
-            width: 30%;
-        }
-        .card:hover{
-            width: 30%;
-        }
-        .front{
-            width: 30%;
+         .front{
+            width: 5%;
         }
         .front2{
-            width: 30%;
+            width: 5%;
         }
         .back{
-            width: 30%;
+            width: 5%;
         }
         .back2{
-            width: 30%;
+            width: 5%;
         }
-        .card2{
-            width: 30%;
-        }
-        .card2:hover{
-            width: 30%;
-        }
+        
         .price__price2{
-            font-size: 1.3rem;
+            font-size: 1.1rem;
         }
         .price__price3{
-            font-size: 1rem;
+            font-size: .5rem;
         } 
 
         /* 
